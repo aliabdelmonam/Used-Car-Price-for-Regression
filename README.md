@@ -12,5 +12,5 @@
 -  combined results between outputs from **(XGBoost, LightGBM)** using **(Mean)**
 -  **RMSE** on test: 72259
 ## Link Notebook
--  [Kaggle Notebook](https://www.kaggle.com/code/aliabdelmenam/used-car-price-regreesion/edit/run/195853720)
+-  [Kaggle Notebook](https://www.kaggle.com/code/aliabdelmenam/used-car-price-regreesion)
 -  [Kaggle competition](https://www.kaggle.com/competitions/playground-series-s4e9)
