@@ -8,7 +8,7 @@
 ### 2. **Machine Learning Models**
 -  **XGBoost**: An efficient and scalable gradient boosting framework.
 -  **LightGBM**: A gradient boosting framework that uses tree-based learning algorithms.
-###  3. Accuracy 
+###  3. Performance Metric 
 -  combined results between outputs from **(XGBoost, LightGBM)** using **(Mean)**
 -  **RMSE** on test: 72259
 ## Link Notebook
