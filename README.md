@@ -1,6 +1,6 @@
 # Machine Learning Regression Project
 ## Overview
--  The goal of this project is to predict the price of used cars based on various features such as brand, model, year, mileage, fuel type, transmission, and more. By analyzing historical data and training robust regression models, we can estimate car prices more accurately, the target was to get RMSE as low as possible
+-  The goal of this project is to predict the price of used cars based on various features such as brand, model, year, mileage, fuel type, transmission, and more. By analyzing historical data and training robust regression models, we can estimate car prices more accurately, the target was to get `RMSE` as low as possible
 ### 1. **Data Preprocessing**
 - **Ordinal Encoding**: To handle Categorical features.
 - **SimpleImputer**: Handles missing values by imputing them with the mean (for numerical features) or the most frequent value (for categorical features).
